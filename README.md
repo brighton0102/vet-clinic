@@ -6,6 +6,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [💻 Getting Started](#getting-started)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [👥 Authors](#authors)
@@ -51,6 +52,53 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - Coming soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+- **[Clone the repository.]**
+- **[Create a directory in your device.]**
+
+### Prerequisites
+
+In order to run this project you need:
+- **[Install PostgreSQL to your device]**
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+  git clone https://github.com/brighton0102/vet-clinic
+ 
+  cd vet_clinic
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+To install this project use:
+
+-Installation will be described further.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+To run the project, execute the following command:
+
+- psql -U postgres -d vet_clinic
+
+- Password: brighton0102
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment
+
+- This app will be deployed using Netlify.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
