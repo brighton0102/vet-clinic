@@ -20,6 +20,7 @@ where name like '%mon';
 select * from animals;
 
 /* Update the animals table, setting the species column to 'pokemon' for rows where species is not already set*/
+begin;
 update animals set species = 'pokemon'
 where species is null;
 select * from animals;
