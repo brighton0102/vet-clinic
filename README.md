@@ -44,6 +44,13 @@
 - Animal Table Created
 - Data inserted into table
 - Quries performed on table to fetch data
+- Table for animals
+- Table for owners
+- Table for species
+- Adding data in animals table
+- Query and update animals table.
+- Used Foreign keys in animal table
+- Used JOIN statements to fetch data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,6 +130,7 @@ To run the project, execute the following command:
 - [ ] add "join table" for visits
 - [ ] database performance audit
 - [ ] add database schema diagram.
+- [ ] Perform quries for many-to-many relationships
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
