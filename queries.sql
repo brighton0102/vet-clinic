@@ -198,3 +198,9 @@ WHERE vets.name = 'Maisy Smith'
 GROUP BY species.name
 ORDER BY visit_count DESC
 LIMIT 1;
+
+/* Decrease the execution time of the first query */
+CREATE INDEX idx_animal_id ON visits(animal_id);
+ANALYZE visits;
+VACUUM visits;
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits WHERE animal_id = 4;
