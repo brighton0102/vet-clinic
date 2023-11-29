@@ -119,6 +119,12 @@ To run the project, execute the following command:
 - GitHub: [brighton0102](htpps://github.com/brighton0102)
 - Twitter: [@brighton_ui](https://twitter.com/brighton_ui)
 
+👤 **Faiz Mohammad**
+
+- GitHub: [@githubhandle](https://github.com/the-faizmohammad)
+- Twitter: [@twitterhandle](https://twitter.com/FaizMoh58742600)
+- Linkdin: [@linkdinhandle](https://www.linkedin.com/in/faiz-mohammad-967354142/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
